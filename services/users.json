@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "Karan",
+        "email": "karan@abc.com",
+        "mobile": 9876543210,
+        "password": "$2a$10$klfIsAuRf/1NtAOIN0CSOe3xJ7SyxWOqXYgpqdksTMJIaxdx14faO",
+        "profilePic": "uploads\\profilePic1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Rahul",
+        "email": "rahul@abc.com",
+        "mobile": "9876543210",
+        "password": "$2a$10$efWZONR6g7eyWySJut7feuxfQxaTQ98vEAfmPjZiYCcvD2T5lQJDu",
+        "profilePic": "uploads\\profilePic23.jpg"
+    }
+]
